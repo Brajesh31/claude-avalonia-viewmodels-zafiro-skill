@@ -30,3 +30,7 @@ Ask your AI coding assistant to use **Avalonia ViewModels Zafiro** when handling
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
+## Additional Resources
+
+Added four references: `viewmodels.md`, `wizards.md`, `navigation_sections.md`, and `composition.md`.
